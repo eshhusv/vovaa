@@ -1,0 +1,27 @@
+.games {
+    display: flex;
+    grid-template-columns: repeat(4, 264px);
+    grid-template-rows: repeat(3, 438px);
+    grid-column-gap: 20px;
+    grid-row-gap: 30px;
+    font-size: 24px;
+    text-align: center;
+
+    & div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: white;
+        
+        & img {
+            border-radius: 5px;
+            width: 264px;
+            height: 385px;
+            margin-bottom: 10px;
+        }
+
+        & p {
+            text-align: center;
+        }
+    }
+}

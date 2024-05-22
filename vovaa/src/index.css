@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sarabun-light {
+    font-family: "Sarabun", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

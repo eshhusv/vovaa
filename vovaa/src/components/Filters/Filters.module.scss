@@ -1,0 +1,55 @@
+.filter {
+    width: 422px;
+    height: 782px;
+    border-radius: 5px;
+    background-color: #1B2838;
+    font-size: 20px;
+
+    & .filter__content {
+        width: 382px;
+        height: 724px;
+        margin: 0 auto;
+        margin-top: 29px;
+
+        & div {
+            margin-bottom: 17px;
+
+            &:last-of-type {
+                margin-bottom: 0;
+            }
+
+            & p {
+                margin-left: 15px;
+                margin-bottom: 11px;
+                color: white;
+            }
+
+            & div {
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+    }
+}
+
+.input_lil {
+    width: 171px;
+    height: 52px;
+    border-radius: 15px;
+    padding-left: 15px;
+    border: 0;
+    background-color: #2C4058;
+    color: white;
+    font-size: 20px;
+}
+
+.input_common {
+    width: 362px;
+    height: 52px;
+    border-radius: 15px;
+    padding-left: 15px;
+    border: 0;
+    background-color: #2C4058;
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "name":"INDIKA",
+        "frontimg":"https://cdn.cloudflare.steamstatic.com/steam/apps/1373960/library_600x900_2x.jpg?t=1715935542",
+        "cardimg":"https://cdn.cloudflare.steamstatic.com/steam/apps/1373960/capsule_616x353.jpg?t=1697621772"
+    },
+    {
+        "name":"The Case of the Golden Idol",
+        "frontimg":"https://cdn.cloudflare.steamstatic.com/steam/apps/1677770/library_600x900_2x.jpg?t=1706625948",
+        "cardimg":"https://cdn.cloudflare.steamstatic.com/steam/apps/1677770/library_header.jpg?t=1706625948"
+    },
+    {
+        "name":"Yakuza 0",
+        "frontimg":"https://cdn.cloudflare.steamstatic.com/steam/apps/638970/library_600x900_2x.jpg?t=1669735448",
+        "cardimg":"https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/638970/cb705224e3343b084f81cb3905cc476ef5544258.jpg"
+    },
+    {
+        "name":"What Remains of Edith Finch",
+        "frontimg":"",
+        "cardimg":""
+    }
+]
